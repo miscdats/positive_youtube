@@ -7,6 +7,6 @@ We aim to see if trends in YouTube viewing are due to language and what content 
 - Generate function at end with words derived from popular, positive titles.
 
 ## Screenshots
-![Generated Positive Wordcloud from Popular Videos]("Screenies/5.png"?raw=false "Positive Popularity")
+![Generated Positive Wordcloud from Popular Videos](Screenies/5.png?raw=false "Positive Popularity")
 
-![Generated to Conclusion shot]("Screenies/10.png"?raw=false "Generate Positivity")
+![Generated to Conclusion shot](Screenies/10.png?raw=false "Generate Positivity")
